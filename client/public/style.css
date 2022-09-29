@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Helvetica";
+    src: url("assets/Helvetica.ttf");
+  }
+
+*{
+    font-family: 'Helvetica', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
